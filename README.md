@@ -2,7 +2,7 @@
 
 I'm a recent graduate from SPICED Academy's Full Stack Coding Bootcamp. This is a 12 week full-time bootcamp focused on JS.  
 At the moment I am looking for a possibility to learn fast, strengthen my JavaScript skills and contribute to a motivated team.\
-Prior I was a project manager in the tourism industry, and lately I discovered a passion for design.
+Prior I was a project manager in the tourism industry, and lately I discovered a passion for design. Currently I work for CM4All in Cologne. 
 
 ![My Banner](assets/GitHub_Banner.png)
 
@@ -26,6 +26,6 @@ Prior I was a project manager in the tourism industry, and lately I discovered a
 
 [![LinkedIn Profile](assets/Linkedin_icon_smaller.jpg)](https://www.linkedin.com/in/lorinaknippfeld)
 
-## And then:
+## In short:
 
-![Hire me](https://media.giphy.com/media/95BUwxh3kIw1pReo62/giphy.gif)
+<iframe src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="457" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE">via GIPHY</a></p>
