@@ -25,7 +25,3 @@ Prior I was a project manager in the tourism industry, and lately I discovered a
 ## Also:
 
 [![LinkedIn Profile](assets/Linkedin_icon_smaller.jpg)](https://www.linkedin.com/in/lorinaknippfeld)
-
-## In short:
-
-(https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE)
