@@ -21,6 +21,3 @@ Prior I was a project manager in the tourism industry, and lately I discovered a
 
 [![Recipe Manager](assets/Korean_Cuisine.png)](https://en.wikipedia.org/wiki/Korean_cuisine)
 
-## Also:
-
-[![LinkedIn Profile](assets/Linkedin_icon_smaller.jpg)](https://www.linkedin.com/in/lorinaknippfeld)
